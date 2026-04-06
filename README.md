@@ -13,7 +13,7 @@
 <h2>🚀 Sobre mí</h2>
 <p>
 Soy desarrollador enfocado en la creación de APIs REST usando Node.js y Express.<br>
-Entusiaste de la ciberseguridad, la inteligencia artificial y el desarrollo de software robusto.
+Entusiasta de la ciberseguridad, la inteligencia artificial y el desarrollo de software robusto.
 </p>
 
 <hr>
