@@ -73,7 +73,6 @@ Entusiasta de la ciberseguridad, la inteligencia artificial y el desarrollo de s
   <li>Metodologías ágiles como SCRUM</li>
   <li>Seguridad en APIs</li>
   <li>Buenas prácticas backend</li>
-  <li>Diseños web modernos con Flexbox</li>
   <li>Integración de IA en procesos de desarrollo</li>
 </ul>
 
