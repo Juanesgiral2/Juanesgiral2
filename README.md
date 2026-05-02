@@ -68,15 +68,5 @@ Entusiasta de la ciberseguridad, la inteligencia artificial y el desarrollo de s
 
 <hr>
 
-<h2>📚 Actualmente aprendiendo</h2>
-<ul>
-  <li>Metodologías ágiles como SCRUM</li>
-  <li>Seguridad en APIs</li>
-  <li>Buenas prácticas backend</li>
-  <li>Integración de IA en procesos de desarrollo</li>
-</ul>
-
-<hr>
-
 <h2>📫 Contacto</h2>
 <p>Email: juaneess.0406@gmail.com</p>
